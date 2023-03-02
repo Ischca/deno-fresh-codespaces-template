@@ -1,2 +1,11 @@
-# deno-fresh-codespaces-template
-Deno and Fresh Web Framework codespaces templates.
+# fresh project
+
+### Usage
+
+Start the project:
+
+```
+deno task start
+```
+
+This will watch the project directory and restart as necessary.
